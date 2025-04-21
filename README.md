@@ -5,7 +5,7 @@ Welcome to **Docker Lab** – your all-in-one playground for Dockerized develope
 This repository contains pre-configured Docker Compose files and Dockerfiles for commonly used services like:
 
 - 🧰 GitLab
-- 🐳 Portainer (Soon)
+- 🐳 Portainer
 - 📈 Grafana + Prometheus (Soon)
 - 📁 MinIO (Soon)
 - 🛠️ Jenkins (Soon)
@@ -15,8 +15,8 @@ This repository contains pre-configured Docker Compose files and Dockerfiles for
 
 | Service     | Description                   | Directory        |
 |-------------|-------------------------------|------------------|
-| GitLab      | Self-hosted Git platform       | `/gitlab`        |
-
+| GitLab      | Self-hosted Git platform       | `/gitlab`       |
+| Portainer   | container management platform  | `/portainer`    |
 
 ## 📂 Structure
 
